@@ -57,7 +57,7 @@ let resumeData = {
         "Achievements":"2015 Rookie of the Year"
       }
     ],
-    "skillsDescription":"Your skills here",
+    "skillsDescription":"Some Skills",
     "skills":[
       {
         "skillname":"HTML5"
@@ -66,7 +66,7 @@ let resumeData = {
         "skillname":"CSS"
       },
       {
-        "skillname":"Reactjs"
+        "skillname":"Java"
       }
     ],
     "portfolio":[
