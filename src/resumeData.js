@@ -4,7 +4,7 @@ let resumeData = {
     "role": "Full Stack Developer",
     "linkedinId":"https://www.linkedin.com/in/patrickwfollett/",
     "skypeid": "http://twitter.com/LaPat_Blue",
-    "roleDescription": " I enjoy working in various parts of frontend development and backend development! Whenever I have free time today I like to learn and try new things. I played volleyball all my life and still do to this day!",
+    "roleDescription": " I enjoy working in various parts of frontend development and backend development! When I am not busy coding I am spending time outside with my family and my dog Rameses! I play also play video games and volleyball in my free time! ",
     "socialLinks":[
         {
           "name":"linkedin",
@@ -22,7 +22,7 @@ let resumeData = {
           "className":"fa fa-twitter"
         }
       ],
-    "aboutme":"I am a recent graduate of the University of Pennsylvania's LPS Coding BootCamp. Over the last six months I have been tested in skills both frontend and backend and have learn an amazing amount. I came into this program wanting to learn how to be a developer and I can say that I am confident in my skills as a Full Stack Developer. I am looking to work for a company that is focused on advancement and has a eye on the future. I am always thinking of creative and innovative ways to solve complex problems. I love to learn and can not wait to broaden my language base!",
+    "aboutme":"I am a recent graduate of the University of Pennsylvania's LPS Coding BootCamp. Over the last six months I have been tested in skills both front-end and back-end and have learned an amazing amount. I came into this program needing a change in career path. I have always loved computers and working with them and I took a leap and I am so happy I did. UPenn taught me the skills that I needed to be a Full Stack JavaScript Web Developer. I am looking to work for a company that is focused on advancement and has a eye on the future. I am always thinking of creative and innovative ways to solve complex problems. I love to learn and can not wait to broaden my language base!",
     "address":"Pittsburgh, PA",
     "website":"https://github.com/PWFollett",
     "education":[
