@@ -101,10 +101,10 @@ let resumeData = {
         "description":"I worked with Patrick on several projects throughout our time studying online with the University of Pennsylvania's LPS Coding Bootcamp. Saying Patrick is a team player and a really great person to work with would be quite a heavy understatement. Patrick Follett has a clear drive to learn and hone his craft as a professional developer, he does everything he can to reach his goals and is always willing to stay up some nights to help reach MVP on projects during tedious time crunches with little time left to get the job done. He's a quick learner with a passion for coding, but also, he's a great guy with an awesome personality! I would highly, highly recommend Mr. Follett to any company. He's not just an asset to your team, but a wonderful co-worker and friend and is always willing to help with complex issues whenever you need it.",
         "name":"Shawn Luther, Jr. Web Developer" 
       },
-      {
-        "description":"This is a sample testimonial",
-        "name":"Some technical guy"
-      }
+      // {
+      //   "description":"This is a sample testimonial",
+      //   "name":"Some technical guy"
+      // }
     ]
   }
   
