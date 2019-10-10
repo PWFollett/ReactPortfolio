@@ -54,7 +54,7 @@ let resumeData = {
         "specialization":"Third Party Logisitics Broker",
         "MonthOfLeaving":"Jul",
         "YearOfLeaving":"2016",
-        "Achievements":"Some Achievements"
+        "Achievements":"2015 Rookie of the Year"
       }
     ],
     "skillsDescription":"Your skills here",
@@ -71,24 +71,29 @@ let resumeData = {
     ],
     "portfolio":[
       {
-        "name":"project1",
-        "description":"mobileapp",
-        "imgurl":"images/portfolio/phone.jpg"
+        "name":"HIMYM Friend Finder!",
+        "description":"Whose your best friend? - Fun Application Created during BootCamp",
+        "imgurl":"https://media.giphy.com/media/ZCHMdHCwgeFM7M7bTa/giphy.gif",
+        "url":"../images/McClaren's Social Networking - Google Chrome 2019-10-10 12-12-14.mp4",
+      
       },
       {
-        "name":"project2",
-        "description":"mobileapp",
-        "imgurl":"images/portfolio/project.jpg"
+        "name":"NPS Park Finder!",
+        "description":"A Blog for Gamers by Gamers- Project 1",
+        "imgurl":"https://media.giphy.com/media/QvqMDaZYbTIzl0ovq4/giphy.gif",
+        "url":"../images/National Parks Finder - Google Chrome 2019-10-10 11-56-44.mp4",
       },
       {
-        "name":"project3",
-        "description":"mobileapp",  
-        "imgurl":"images/portfolio/project2.png"
+        "name":"InstaGame",
+        "description":"A Blog for Gamers built by gamers!- Project 2 ",  
+        "imgurl":"https://media.giphy.com/media/IdOJR3AK3zcEPVAriM/giphy.gif",
+        "url":"../images/InstaGame Online Blog - Google Chrome 2019-09-24 14-41-05.mp4",
       },
       {
-        "name":"project4",
-        "description":"mobileapp",
-        "imgurl":"images/portfolio/phone.jpg"
+        "name":"LocoBounce",
+        "description":"ReLocating Made Easy",
+        "imgurl":"",
+        "url":"https://www.linkedin.com/in/patrickwfollett/",
       }
     ],
     "testimonials":[
