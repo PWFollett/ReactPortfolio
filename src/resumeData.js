@@ -4,7 +4,7 @@ let resumeData = {
     "role": "Full Stack Developer",
     "linkedinId":"https://www.linkedin.com/in/patrickwfollett/",
     "skypeid": "http://twitter.com/LaPat_Blue",
-    "roleDescription": " I enjoy working in various parts of front-end development and back-end development! When I am not busy coding I am spending time outside with my family and my dog Rameses! I play also play video games and volleyball in my free time! ",
+    "roleDescription": " I enjoy working in various parts of front-end development and back-end development! When I am not busy coding I am spending time outside with my family and my dog Rameses! I play video games and volleyball in my free time! ",
     "socialLinks":[
         {
           "name":"linkedin",
