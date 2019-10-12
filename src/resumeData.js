@@ -91,7 +91,7 @@ let resumeData = {
       },
       {
         "name":"LocoBounce",
-        "description":" ReLocating Made Easy - Project 3 - MERN STACK/RESTful API",
+        "description":" ReLocating Made Easy - Project 3 - MERN STACK/RESTful API - still work in progress, UI fixes, adding features",
         "imgurl":"https://media.giphy.com/media/UQJidRtmfWhlrDcPDo/giphy.gif",
         "url":"../images/LocoBounce - Google Chrome 2019-10-08 13-13-24.mp4",
       }
