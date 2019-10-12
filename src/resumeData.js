@@ -79,21 +79,21 @@ let resumeData = {
       },
       {
         "name":"NPS Park Finder!",
-        "description":"A Blog for Gamers by Gamers- Project 1",
+        "description":"A Blog for Gamers by Gamers- Project 1 - HTML/CSS/JS/RESTful API/BOOTSTRAP",
         "imgurl":"https://media.giphy.com/media/QvqMDaZYbTIzl0ovq4/giphy.gif",
         "url":"../images/National Parks Finder - Google Chrome 2019-10-10 11-56-44.mp4",
       },
       {
         "name":"InstaGame",
-        "description":"A Blog for Gamers built by gamers!- Project 2 ",  
+        "description":"A Blog for Gamers built by gamers!- Project 2 - JS/HTML/CSS/NODE.JS/MYSQL",  
         "imgurl":"https://media.giphy.com/media/IdOJR3AK3zcEPVAriM/giphy.gif",
         "url":"../images/InstaGame Online Blog - Google Chrome 2019-09-24 14-41-05.mp4",
       },
       {
         "name":"LocoBounce",
-        "description":"ReLocating Made Easy",
-        "imgurl":"",
-        "url":"https://www.linkedin.com/in/patrickwfollett/",
+        "description":" ReLocating Made Easy - Project 3 - MERN STACK/RESTful API",
+        "imgurl":"https://media.giphy.com/media/UQJidRtmfWhlrDcPDo/giphy.gif",
+        "url":"../images/LocoBounce - Google Chrome 2019-10-08 13-13-24.mp4",
       }
     ],
     "testimonials":[
