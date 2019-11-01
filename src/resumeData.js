@@ -85,13 +85,13 @@ let resumeData = {
       },
       {
         "name":"InstaGame",
-        "description":"A Blog for Gamers built by gamers!- Project 2 - JS/HTML/CSS/NODE.JS/MYSQL",  
+        "description":"A Blog for Gamers built by gamers!- Project 2 - JS/HTML/CSS/NODE.JS/MYSQL- Click to Try!",  
         "imgurl":"https://media.giphy.com/media/IdOJR3AK3zcEPVAriM/giphy.gif",
         "url":"https://sheltered-badlands-92972.herokuapp.com/",
       },
       {
         "name":"LocoBounce",
-        "description":" ReLocating Made Easy - Project 3 - MERN STACK/RESTful API - still work in progress, UI fixes, adding features",
+        "description":" ReLocating Made Easy - Project 3 - MERN STACK/RESTful API - Click to Try!",
         "imgurl":"https://media.giphy.com/media/UQJidRtmfWhlrDcPDo/giphy.gif",
         "url":"https://locobounce.herokuapp.com/",
       }
